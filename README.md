@@ -42,17 +42,16 @@ The **Deep Brain Vision (DBV)** project leverages deep learning and computer vis
 ## Results  
 The latest **YOLOv11n + ResNet50** model integration significantly improves detection and classification accuracy, providing **a robust AI-driven tool for brain tumor diagnosis**.  
 
-
-
 ## Deployment  
 - **Framework:** Flask  
 - **Models Used:** YOLOv11 for detection, ResNet50 for classification  
 - **Output:** Web interface for MRI tumor detection and classification
+- ![Results](https://github.com/Rehab-Alsaidi/DBV-/blob/main/Flask.png?raw=true)
 
 ## Publication
 Title: Enhancing Brain Tumor Detection with YOLOv11: An Innovative Deep Learning Approach in Medical Imaging
 Published in an IEEE Conference (2025).
-![Results](https://github.com/Rehab-Alsaidi/DBV-/blob/main/Flask.png?raw=true)
+
 
 ## Conclusion  
 DBV demonstrates the potential of AI in medical diagnosis, improving accuracy and efficiency in brain tumor detection. The system offers **real-time inference**, **high precision**, and **automated tumor classification**, making it a valuable tool for radiologists.  
