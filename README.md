@@ -48,6 +48,10 @@ The latest **YOLOv11n + ResNet50** model integration significantly improves dete
 - **Framework:** Flask  
 - **Models Used:** YOLOv11 for detection, ResNet50 for classification  
 - **Output:** Web interface for MRI tumor detection and classification
+
+## Publication
+Title: Enhancing Brain Tumor Detection with YOLOv11: An Innovative Deep Learning Approach in Medical Imaging
+Published in an IEEE Conference (2025).
 ![Results](https://github.com/Rehab-Alsaidi/DBV-/blob/main/Flask.png?raw=true)
 
 ## Conclusion  
