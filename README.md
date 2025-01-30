@@ -48,9 +48,12 @@ The latest **YOLOv11n + ResNet50** model integration significantly improves dete
 - **Output:** Web interface for MRI tumor detection and classification
 - ![Results](https://github.com/Rehab-Alsaidi/DBV-/blob/main/Flask.png?raw=true)
 
-## Publication
-Title: Enhancing Brain Tumor Detection with YOLOv11: An Innovative Deep Learning Approach in Medical Imaging
-Published in an IEEE Conference (2025).
+## Publication  
+
+This work has been published in the IEEE conference, titled:  
+
+**Enhancing Brain Tumor Detection with YOLOv11: An Innovative Deep Learning Approach in Medical Imaging**  
+The paper presents an advanced deep learning approach integrating YOLOv11 for brain tumor detection and ResNet50 for classification, enhancing accuracy and efficiency in medical imaging.
 
 
 ## Conclusion  
